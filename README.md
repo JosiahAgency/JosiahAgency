@@ -65,12 +65,6 @@ I specialize in designing systems that **automate workflows, manage data efficie
 
 ---
 
-## 📊 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JosiahAgency\&theme=tokyo-night)
-
----
-
 ## 📫 Contact
 
 * 📧 Email: [mwandajosiah@gmail.com](mailto:mwandajosiah@gmail.com)
