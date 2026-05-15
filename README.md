@@ -55,24 +55,9 @@ I specialize in designing systems that **automate workflows, manage data efficie
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosiahAgency\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JosiahAgency\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiahAgency\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 * 📧 Email: [mwandajosiah@gmail.com](mailto:mwandajosiah@gmail.com)
 
 ---
 
-## 👀 Profile Views
-
-![Visitors](https://komarev.com/ghpvc/?username=JosiahAgency\&color=blue)
-
----
