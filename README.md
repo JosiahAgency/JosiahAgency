@@ -1,63 +1,54 @@
 # Hi, I'm Josiah 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Enterprise+Software+Developer;Python+\(Odoo\)+%7C+Laravel+%7C+Kotlin;Building+Scalable+Business+Systems;Backend+%2B+Mobile+Engineer)
+Software Engineer focused on building practical, high-impact products across ERP, mobile, and web systems.
 
 ---
 
 ## 💼 About Me
 
-I build **enterprise-grade applications** focused on performance, scalability, and real business impact.
+I’m a software engineer with 2 years of professional experience delivering business-focused solutions in:
 
-My work spans across:
+- **ERP and workflow automation** (Odoo)
+- **Native Android development** (Kotlin)
+- **Web application development** (PHP, Next.js)
 
-* 🏢 ERP & business systems (Odoo, Laravel)
-* 🌐 Full-stack web applications
-* 📱 Android applications (Kotlin)
-
-I specialize in designing systems that **automate workflows, manage data efficiently, and scale with business needs**.
+I specialize in turning real-world business processes into reliable software that is easier to use, maintain, and scale.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Skills
 
-### 🧠 Backend & Enterprise Systems
-
-![Python](https://img.shields.io/badge/Python-blue?logo=python\&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-purple?logo=odoo\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-blue?logo=php\&logoColor=white)
-
-### 🌐 Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-blue?logo=react\&logoColor=white)
-
-### 📱 Mobile Development
-
-![Kotlin](https://img.shields.io/badge/Kotlin-orange?logo=kotlin\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-green?logo=android\&logoColor=white)
-
-### 🛢️ Tools & Infrastructure
-
-![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?logo=git\&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 ---
 
-## 🚀 What I Build
+## 🚀 Domain Focus
 
-* 🔹 Enterprise Resource Planning (ERP) systems
-* 🔹 Intelligent ticketing & automation platforms
-* 🔹 Financial and transaction-based systems
-* 🔹 Secure data & credential management systems
-* 🔹 Android apps with backend integrations
+- ERP systems
+- Business process automation
+- E-commerce platforms
+- Fintech products
+
+---
+
+## 📌 Featured Projects
+
+### [OpenLP Noir (NCSDA Edition)](https://github.com/JosiahAgency/OpenLP_Noir)
+Customized OpenLP distribution focused on church presentation workflows, including an EGW Library plugin for search/import/presentation of Ellen G. White content and a modern Noir interface theme.
+
+### [Nairobi Central SDA Frontend](https://github.com/JosiahAgency/ncsda)
+Next.js frontend platform with testing and performance evaluation workflows (Vitest + Lighthouse CI), built for a production-quality church web experience.
+
+### [PesaPulse](https://github.com/JosiahAgency/PesaPulse)
+Native Android personal finance app that parses M-PESA SMS transactions into structured records, then generates spending insights and projections using an offline-first architecture.
 
 ---
 
 ## 📫 Contact
 
-* 📧 Email: [mwandajosiah@gmail.com](mailto:mwandajosiah@gmail.com)
-
----
-
+- 📧 Email: [mwandajosiah@gmail.com](mailto:mwandajosiah@gmail.com)
